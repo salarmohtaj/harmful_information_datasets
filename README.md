@@ -8,7 +8,7 @@ Please feel free to contribute to update the list.
 
 |The name|Language|Domain|# of instance|Reference|
 |------|---|---|---|---|
-|<sup>LIAR: A BENCHMARK DATASET FOR FAKE NEWS DETECTION</sub>|<sup>English</sub>|<sup>Social Media</sub>|<sup>-</sub>|[<sup>[1]</sub>](#1-wang-william-yang--liar-liar-pants-on-fire-a-new-benchmark-dataset-for-fake-news-detection-arxiv-preprint-arxiv170500648-2017)|
+|<sup>Liar, Liar Pants on Fire: A New Benchmark Dataset for Fake News Detection</sub>|<sup>English</sub>|<sup>Social Media</sub>|<sup>-</sub>|[<sup>[1]</sub>](#1-wang-william-yang--liar-liar-pants-on-fire-a-new-benchmark-dataset-for-fake-news-detection-arxiv-preprint-arxiv170500648-2017)|
 
 
 ### Hate Speech detection data sets
