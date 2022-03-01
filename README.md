@@ -5,8 +5,8 @@ This repository contains the list of available dataset for the tasks of Disinfor
 Please feel free to contribute to update the list.
 
 
-|a|a|a|a|a|
-|---|---|---|---|---|
-|a|a|a|a|a|
-|a|a|a|a|a|
-|a|a|a|a|a|
+|a     |a|a|a|a|
+|------|---|---|---|---|
+|a     |a|a|a|a|
+|a     |a|a|a|a|
+|a     |a|a|a|a|
