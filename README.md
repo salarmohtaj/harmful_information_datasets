@@ -13,6 +13,9 @@ Please feel free to contribute to update the list.
 
 ### Hate Speech detection data sets
 
+|The name|Language|Domain|# of instance|Reference|
+|------|---|---|---|---|
+| | | | | |
 
 ### References
 ###### [1] Wang, William Yang. "" liar, liar pants on fire": A new benchmark dataset for fake news detection." arXiv preprint arXiv:1705.00648 (2017).
