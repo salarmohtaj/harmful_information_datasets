@@ -4,8 +4,8 @@ This repository contains the list of available dataset for the tasks of Disinfor
 
 Please feel free to contribute to update the list.
 
-
-|a     |a|a|a|a|
+### Hate Speech detection data sets
+|The name|Language|Domain|# of instance|Reference|
 |------|---|---|---|---|
 |a     |a|a|a|a|
 |a     |a|a|a|a|
